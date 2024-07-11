@@ -17,9 +17,9 @@ LOGIN_URL: https://login.salesforce.com
 # For authentication, you can use either username/password or accessToken/tenantId types.
 # Either one of the combinations is required. Please specify `null` values to the unused type.
 # Your Salesforce Username
-USERNAME: rushiramdasi411@cunning-narwhal-u1ycrl.com
+USERNAME: null
 # Your Salesforce Password
-PASSWORD: cunning-narwhal-u1ycrl#4eltqbZAGW02NP7ac6aby2BoWG
+PASSWORD: null
 # Your Salesforce org Tenant ID
 TENANT_ID: null
 # Your Salesforce Session Token
